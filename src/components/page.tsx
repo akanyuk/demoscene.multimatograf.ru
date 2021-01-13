@@ -30,6 +30,8 @@ class Page extends React.Component {
             document.title = titlePrefix + " " + pageKey;
         }
 
+        window.scrollTo(0, 0);
+
         return (
             <div>
                 {page()}
