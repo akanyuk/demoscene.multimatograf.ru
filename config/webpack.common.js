@@ -47,7 +47,7 @@ const config = {
         }),
         new CopyWebpackPlugin({
             patterns: [
-                { from: "public", to: "" },
+                {from: "public", to: ""},
             ],
         }),
     ],
