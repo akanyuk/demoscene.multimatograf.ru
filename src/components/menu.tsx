@@ -7,7 +7,7 @@ class Menu extends React.Component {
     render() {
         return (
             <nav className="nav nav-masthead justify-content-center">
-                {Pages.map(m =>
+                {Object.keys(Pages).sort(function(a,b) { return +b - +a }).map(m =>
                     <NavLink key={m} className="nav-link" activeClassName="active" to={m}>{m}</NavLink>
                 )}
             </nav>
