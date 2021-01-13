@@ -85,26 +85,26 @@ body {
 }
 
 /*
- * Cover
- */
-
-.cover-container {
-  max-width: 50em;
-}
-
-.cover {
-  padding: 3rem 1.5rem 0 1.5rem;
-}
-
-/*
  * Pages
  */
 
-.page-image {
+.page {
+  max-width: 50em;
+  padding: 0 1rem;
+}
+
+.page H3 {
+  margin-bottom: 2rem;
+}
+
+.page IMG {
   max-width:570px; width:100%
 }
 
 pre {
+  width: max-content;
+  max-width: 100%;
+  display: inline-block;
   color: #eee;
   background-color: #555;
   padding: 1rem;

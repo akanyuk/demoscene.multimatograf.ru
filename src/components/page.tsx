@@ -22,20 +22,15 @@ class Page extends React.Component {
     render() {
         let page = Pages[defaultPage];
         let pageKey = this.props['location'].pathname.substr(1);
-        let header = "";
         if (Pages[pageKey] === undefined) {
-            pageKey = defaultPage;
-            header = titlePrefix + " " + pageKey;
             document.title = titlePrefix;
         } else {
             page = Pages[pageKey];
-            header = titlePrefix + " " + pageKey;
             document.title = titlePrefix + " " + pageKey;
         }
 
         return (
             <div>
-                <h1>{header}</h1>
                 {page()}
             </div>
         )

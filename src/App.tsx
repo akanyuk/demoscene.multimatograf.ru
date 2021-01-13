@@ -9,17 +9,15 @@ const App = () => {
         <HashRouter>
             <header className="masthead sticky-top d-flex w-100 p-3 mx-auto flex-column">
                 <div className="inner">
-                    <h3 className="masthead-brand">
+                    <h1 className="masthead-brand">
                         <NavLink to="/">Multimatograf</NavLink>
-                    </h3>
+                    </h1>
                     <Menu/>
                 </div>
             </header>
 
-            <div className="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
-                <main role="main" className="inner cover">
-                    <Route component={Page}/>
-                </main>
+            <div className="page d-flex w-100 h-100 mx-auto flex-column">
+                <Route component={Page}/>
             </div>
         </HashRouter>
     );
