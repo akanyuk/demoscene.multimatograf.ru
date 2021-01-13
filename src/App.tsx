@@ -1,21 +1,25 @@
 import React, {FC} from 'react';
+import {BrowserRouter as Router, Route, NavLink} from "react-router-dom";
 
 import Menu from "./components/menu";
+import Page from "./components/page";
 
 const App: FC = () => (
     <div className="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
-        <header className="masthead mb-auto">
-            <div className="inner">
-                <h3 className="masthead-brand">Multimatograf</h3>
-                <Menu />
-            </div>
-        </header>
+        <Router>
+            <header className="masthead mb-auto">
+                <div className="inner">
+                    <h3 className="masthead-brand">
+                        <NavLink to="/">Multimatograf</NavLink>
+                    </h3>
+                    <Menu/>
+                </div>
+            </header>
 
-        <main role="main" className="inner cover">
-            <h1>Cover your page.</h1>
-            <p>Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and
-                add your own fullscreen background photo to make it your own.</p>
-        </main>
+            <main role="main" className="inner cover">
+                <Route path="*" component={Page}/>
+            </main>
+        </Router>
     </div>);
 
 export default App;
