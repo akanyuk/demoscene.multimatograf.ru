@@ -2,6 +2,7 @@ import React from 'react';
 
 import Page2018 from './pages/2018';
 import Page2017 from './pages/2017';
+import Page2016 from './pages/2016';
 
 const titlePrefix = "Multimatograf";
 const defaultPage = "2018";
@@ -9,7 +10,7 @@ const defaultPage = "2018";
 export const Pages = {
     "2018": Page2018,
     "2017": Page2017,
-    // "2016",
+    "2016": Page2016,
     // "2015",
     // "2014",
     // "2013",
