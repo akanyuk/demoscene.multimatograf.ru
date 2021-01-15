@@ -3,6 +3,8 @@ import React from 'react';
 import Page2018 from './pages/2018';
 import Page2017 from './pages/2017';
 import Page2016 from './pages/2016';
+import Page2015 from './pages/2015';
+import Page2014 from './pages/2014';
 
 const titlePrefix = "Multimatograf";
 const defaultPage = "2018";
@@ -11,8 +13,8 @@ export const Pages = {
     "2018": Page2018,
     "2017": Page2017,
     "2016": Page2016,
-    // "2015",
-    // "2014",
+    "2015": Page2015,
+    "2014": Page2014,
     // "2013",
     // "2012",
     // "2011",

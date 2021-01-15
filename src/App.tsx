@@ -9,9 +9,6 @@ const App = () => {
         <HashRouter>
             <header className="masthead sticky-top d-flex w-100 p-3 mx-auto flex-column">
                 <div className="inner">
-                    <h1 className="masthead-brand">
-                        <NavLink to="/">Multimatograf</NavLink>
-                    </h1>
                     <Menu/>
                 </div>
             </header>
