@@ -3,7 +3,7 @@ import React from "react";
 export default function () {
     return <div>
         <h1>Multimatograf 2016</h1>
-        <p><a href="http://events.retroscene.org/mf2016"><img alt="" src="./media/cover2016.png"/></a></p>
+        <p><a href="http://events.retroscene.org/mf2016"><img alt="" src="./media/cover2016.jpg"/></a></p>
 
         <h3>
             <a href="http://events.retroscene.org/mf2016">
