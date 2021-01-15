@@ -1,5 +1,6 @@
 import React from 'react';
 
+import PageIndex from './pages/index';
 import Page2018 from './pages/2018';
 import Page2017 from './pages/2017';
 import Page2016 from './pages/2016';
@@ -7,7 +8,6 @@ import Page2015 from './pages/2015';
 import Page2014 from './pages/2014';
 
 const titlePrefix = "Multimatograf";
-const defaultPage = "2018";
 
 export const Pages = {
     "2018": Page2018,
@@ -22,11 +22,17 @@ export const Pages = {
 };
 
 class Page extends React.Component {
+    IsIndexPage() {
+        let pageKey = this.props['location'].pathname.substr(1);
+        return Pages[pageKey] === undefined;
+    }
+
     render() {
-        let page = Pages[defaultPage];
+        let page;
         let pageKey = this.props['location'].pathname.substr(1);
         if (Pages[pageKey] === undefined) {
             document.title = titlePrefix;
+            page = PageIndex
         } else {
             page = Pages[pageKey];
             document.title = titlePrefix + " " + pageKey;
