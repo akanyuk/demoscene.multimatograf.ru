@@ -8,7 +8,7 @@ export default function () {
         <h3>
             <a href="http://events.retroscene.org/dmf10">
                 25-27 апреля 2014, Вологда,
-                <br />выставочный комплекс «Русский Дом»
+                <br />выставочный комплекс «Русский Дом»
             </a>
         </h3>
 

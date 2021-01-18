@@ -92,7 +92,7 @@ body {
   max-width:570px; width:100%
 }
 
-pre {
+.page pre {
   width: max-content;
   max-width: 100%;
   display: inline-block;
@@ -100,4 +100,12 @@ pre {
   background-color: #555;
   padding: 1rem;
   text-align: left;
+}
+
+.page .thumbnail {
+  margin-bottom: 20px;
+}
+
+.page .thumbnail .caption {
+  height: 80px;
 }
