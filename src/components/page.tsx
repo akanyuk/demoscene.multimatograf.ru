@@ -7,6 +7,7 @@ import Page2016 from './pages/2016';
 import Page2015 from './pages/2015';
 import Page2014 from './pages/2014';
 import Page2013 from './pages/2013';
+import Page2012 from './pages/2012';
 
 const titlePrefix = "Multimatograf";
 
@@ -17,7 +18,7 @@ export const Pages = {
     "2015": Page2015,
     "2014": Page2014,
     "2013": Page2013,
-    // "2012",
+    "2012": Page2012,
     // "2011",
     // "2006-2010",
 };

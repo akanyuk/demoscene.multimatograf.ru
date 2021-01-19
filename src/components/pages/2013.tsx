@@ -9,12 +9,19 @@ export default function () {
             <br/>выставочный комплекс «Русский Дом»
         </h3>
 
+        <p>В 2013 году <strong>oldsc00l zone</strong> (ранее выставка ретрокомпьютеров) на
+            фестивале &quot;Мультиматограф&quot; продолжила обретать черты демопати. В рамках мероприятия состоялись:
+            конкурс атрибутной спектрумовской графики (53c), два конкурса по прохождению ретроигр и конкурс фотографий,
+            сделанных во время пати.</p>
+
         <h2>Ссылки</h2>
         <ul>
             <li><a href="http://aka-nyuk.livejournal.com/21316.html">Отчет от организатора (nyuk)</a></li>
             <li><a href="https://goo.gl/photos/o3NSZCVab4pmRTgA8">Фотографии с выставки и конкурсов</a></li>
-            <li><a href="https://vk.com/album165018924_173220556">Общий фотоальбом</a>, <a
-                href="https://vk.com/album165018924_00">еще фото</a></li>
+            <li>
+                <a href="https://vk.com/album165018924_173220556">Общий фотоальбом</a>, <a
+                href="https://vk.com/album165018924_00">еще фото</a>
+            </li>
             <li>Работы конкурса <strong>53c</strong> <a
                 href="https://zxart.ee/eng/parties/2013/multimatograf-9">zxart.ee</a>, <a
                 href="https://demozoo.org/parties/3478/">demozoo.org</a></li>
@@ -362,7 +369,7 @@ export default function () {
                         <img alt="Speed Runner" src="./media/2013/game-compo/Speed_Runner.png"/>
                     </a>
                     <div className="caption">
-                        <h3 className="m-0">Day I<br />Speed Runner</h3>
+                        <h3 className="m-0">Day I<br/>Speed Runner</h3>
                         <div className="text-muted"><small>Commodore C64</small></div>
                         <ol>
                             <li>Кузьминский Вадим</li>
@@ -379,7 +386,7 @@ export default function () {
                         <img alt="Centric" src="./media/2013/game-compo/Centric.png"/>
                     </a>
                     <div className="caption">
-                        <h3 className="m-0">Day II<br />Centric</h3>
+                        <h3 className="m-0">Day II<br/>Centric</h3>
                         <div className="text-muted"><small>Commodore C64</small></div>
                         <ol>
                             <li>Руслан Шульгин</li>
@@ -396,7 +403,7 @@ export default function () {
                         <img alt="Gunfight" src="./media/2013/game-compo/Gunfight.jpg"/>
                     </a>
                     <div className="caption">
-                        <h3 className="m-0">Day III<br />Gunfight</h3>
+                        <h3 className="m-0">Day III<br/>Gunfight</h3>
                         <div className="text-muted"><small>Atari XL / XE</small></div>
                         <ol>
                             <li>Влад Тисов</li>
