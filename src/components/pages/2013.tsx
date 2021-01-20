@@ -16,7 +16,7 @@ export default function () {
 
         <h2>Ссылки</h2>
         <ul>
-            <li><a href="http://aka-nyuk.livejournal.com/21316.html">Отчет от организатора (nyuk)</a></li>
+            <li><a href="https://aka-nyuk.livejournal.com/21316.html">Отчет от организатора (nyuk)</a></li>
             <li><a href="https://goo.gl/photos/o3NSZCVab4pmRTgA8">Фотографии с выставки и конкурсов</a></li>
             <li>
                 <a href="https://vk.com/album165018924_173220556">Общий фотоальбом</a>, <a
@@ -48,7 +48,7 @@ export default function () {
 
         <div className="row">
             <div className="col-md-4">
-                <div className="thumbnail"><a href="http://zxart.ee/eng/authors/s/sergej-leta/gomer/" target="_blank"
+                <div className="thumbnail"><a href="https://zxart.ee/eng/authors/s/sergej-leta/gomer/" target="_blank"
                                               title="1. Гомер by Сергей Лета (206pts)"><img
                     alt="1. Гомер by Сергей Лета (206pts)"
                     src="./media/2013/53c/11.png"/> </a>
@@ -58,7 +58,7 @@ export default function () {
             </div>
 
             <div className="col-md-4">
-                <div className="thumbnail"><a href="http://zxart.ee/eng/authors/v/vadim-kuzminskij/zlaja-ptica/"
+                <div className="thumbnail"><a href="https://zxart.ee/eng/authors/v/vadim-kuzminskij/zlaja-ptica/"
                                               target="_blank" title="2. Злая птица by Вадим кузьминский (205pts)"><img
                     alt="2. Злая птица by Вадим кузьминский (205pts)"
                     src="./media/2013/53c/10.png"/> </a>
@@ -68,7 +68,7 @@ export default function () {
             </div>
 
             <div className="col-md-4">
-                <div className="thumbnail"><a href="http://zxart.ee/eng/authors/n/natalija-kuklina/sobachka/"
+                <div className="thumbnail"><a href="https://zxart.ee/eng/authors/n/natalija-kuklina/sobachka/"
                                               target="_blank" title="3. Собачка by Наталия Куклина (192pts)"><img
                     alt="3. Собачка by Наталия Куклина (192pts)"
                     src="./media/2013/53c/14.png"/> </a>
@@ -79,7 +79,7 @@ export default function () {
 
             <div className="col-md-4">
                 <div className="thumbnail"><a
-                    href="http://zxart.ee/eng/authors/s/sasha-marinova/zachem-zhit-esli-garri-potter-neulovim/"
+                    href="https://zxart.ee/eng/authors/s/sasha-marinova/zachem-zhit-esli-garri-potter-neulovim/"
                     target="_blank" title="4. Зачем жить, если Гарри Поттер неуловим by Саша Маринова (187pts)"><img
                     alt="4. Зачем жить, если Гарри Поттер неуловим by Саша Маринова (187pts)"
                     src="./media/2013/53c/13.png"/> </a>
@@ -91,7 +91,7 @@ export default function () {
             </div>
 
             <div className="col-md-4">
-                <div className="thumbnail"><a href="http://zxart.ee/eng/authors/v/vadim-kuzminskij/tanchiki/"
+                <div className="thumbnail"><a href="https://zxart.ee/eng/authors/v/vadim-kuzminskij/tanchiki/"
                                               target="_blank" title="5. Танчики by Вадим кузьминский (176pts)"><img
                     alt="5. Танчики by Вадим кузьминский (176pts)"
                     src="./media/2013/53c/12.png"/> </a>
@@ -101,7 +101,7 @@ export default function () {
             </div>
 
             <div className="col-md-4">
-                <div className="thumbnail"><a href="http://zxart.ee/eng/authors/i/irina/chto-eto/" target="_blank"
+                <div className="thumbnail"><a href="https://zxart.ee/eng/authors/i/irina/chto-eto/" target="_blank"
                                               title="6. Что это... by Ирина (165pts)"><img
                     alt="6. Что это... by Ирина (165pts)"
                     src="./media/2013/53c/04.png"/> </a>
@@ -111,7 +111,7 @@ export default function () {
             </div>
 
             <div className="col-md-4">
-                <div className="thumbnail"><a href="http://zxart.ee/eng/authors/a/anja-s-vanej/belka/" target="_blank"
+                <div className="thumbnail"><a href="https://zxart.ee/eng/authors/a/anja-s-vanej/belka/" target="_blank"
                                               title="7. Белка! by Аня с Ваней (159pt)"><img
                     alt="7. Белка! by Аня с Ваней (159pt)"
                     src="./media/2013/53c/03.png"/> </a>
@@ -122,7 +122,7 @@ export default function () {
 
             <div className="col-md-4">
                 <div className="thumbnail"><a
-                    href="http://zxart.ee/eng/authors/a/aleksandr-egorov/mitki-nikogo-ne-hotjat-pobedit/"
+                    href="https://zxart.ee/eng/authors/a/aleksandr-egorov/mitki-nikogo-ne-hotjat-pobedit/"
                     target="_blank" title="8. Митьки никого не хотят победить by Александр Егоров (155pts)"><img
                     alt="8. Митьки никого не хотят победить by Александр Егоров (155pts)"
                     src="./media/2013/53c/07.png"/> </a>
@@ -134,7 +134,7 @@ export default function () {
             </div>
 
             <div className="col-md-4">
-                <div className="thumbnail"><a href="http://zxart.ee/eng/authors/e/ekaterina-volkova/ne-eshte-griby/"
+                <div className="thumbnail"><a href="https://zxart.ee/eng/authors/e/ekaterina-volkova/ne-eshte-griby/"
                                               target="_blank"
                                               title="9. Не ешьте грибы by Екатерина Волкова (131pts)"><img
                     alt="9. Не ешьте грибы by Екатерина Волкова (131pts)"
@@ -145,7 +145,7 @@ export default function () {
             </div>
 
             <div className="col-md-4">
-                <div className="thumbnail"><a href="http://zxart.ee/eng/authors/d/danil-bykov/bez-nazvanija2/"
+                <div className="thumbnail"><a href="https://zxart.ee/eng/authors/d/danil-bykov/bez-nazvanija2/"
                                               target="_blank"
                                               title="10. &lt;без названия&gt; by Данил Быков (118pt)"><img
                     alt="10. &lt;без названия&gt; by Данил Быков (118pt)"
@@ -156,7 +156,7 @@ export default function () {
             </div>
 
             <div className="col-md-4">
-                <div className="thumbnail"><a href="http://zxart.ee/eng/authors/z/zhenja-eljakov/advenchur-tajm/"
+                <div className="thumbnail"><a href="https://zxart.ee/eng/authors/z/zhenja-eljakov/advenchur-tajm/"
                                               target="_blank" title="11. Адвенчур тайм by Женя Еляков (115pts)"><img
                     alt="11. Адвенчур тайм by Женя Еляков (115pts)"
                     src="./media/2013/53c/01.png"/> </a>
@@ -166,7 +166,7 @@ export default function () {
             </div>
 
             <div className="col-md-4">
-                <div className="thumbnail"><a href="http://zxart.ee/eng/authors/f/flast/laka-suna/" target="_blank"
+                <div className="thumbnail"><a href="https://zxart.ee/eng/authors/f/flast/laka-suna/" target="_blank"
                                               title="11. Лака Суна by Flast (115pts)"><img
                     alt="11. Лака Суна by Flast (115pts)"
                     src="./media/2013/53c/09.png"/> </a>
@@ -176,7 +176,7 @@ export default function () {
             </div>
 
             <div className="col-md-4">
-                <div className="thumbnail"><a href="http://zxart.ee/eng/authors/u/unknown/dom-na-dereve/"
+                <div className="thumbnail"><a href="https://zxart.ee/eng/authors/u/unknown/dom-na-dereve/"
                                               target="_blank" title="12. Дом на дереве (114pts)"><img
                     alt="12. Дом на дереве (114pts)"
                     src="./media/2013/53c/06.png"/> </a>
@@ -186,7 +186,7 @@ export default function () {
             </div>
 
             <div className="col-md-4">
-                <div className="thumbnail"><a href="http://zxart.ee/eng/authors/i/ilja-alisov/vzhik/" target="_blank"
+                <div className="thumbnail"><a href="https://zxart.ee/eng/authors/i/ilja-alisov/vzhik/" target="_blank"
                                               title="13. Вжик by Илья Алисов (105pts)"><img
                     alt="13. Вжик by Илья Алисов (105pts)"
                     src="./media/2013/53c/08.png"/> </a>
@@ -292,7 +292,7 @@ export default function () {
         <div className="row">
             <div className="col-md-4">
                 <div className="thumbnail">
-                    <a href="http://www.worldofspectrum.org/infoseekid.cgi?id=0025069" rel="nofollow" target="_self">
+                    <a href="https://www.worldofspectrum.org/infoseekid.cgi?id=0025069" rel="nofollow" target="_self">
                         <img alt="Karlos und Schatze der Azteken"
                              src="./media/2013/game-quest/KarlosUndSchatzeDerAzteken.png"/>
                     </a>
@@ -305,7 +305,7 @@ export default function () {
 
             <div className="col-md-4">
                 <div className="thumbnail">
-                    <a href="http://www.worldofspectrum.org/infoseekid.cgi?id=0015215" rel="nofollow" target="_self">
+                    <a href="https://www.worldofspectrum.org/infoseekid.cgi?id=0015215" rel="nofollow" target="_self">
                         <img alt="Fire and Ice" src="./media/2013/game-quest/FireNIce.png"/>
                     </a>
                     <div className="caption">
@@ -317,7 +317,7 @@ export default function () {
 
             <div className="col-md-4">
                 <div className="thumbnail">
-                    <a href="http://www.worldofspectrum.org/infoseekid.cgi?id=0001551" rel="nofollow" target="_self">
+                    <a href="https://www.worldofspectrum.org/infoseekid.cgi?id=0001551" rel="nofollow" target="_self">
                         <img alt="Dynamite Dan" src="./media/2013/game-quest/DynamiteDan.png"/>
                     </a>
                     <div className="caption">
@@ -365,7 +365,7 @@ export default function () {
         <div className="row">
             <div className="col-md-4">
                 <div className="thumbnail">
-                    <a href="http://www.gamebase64.com/game.php?id=7165" rel="nofollow" target="_self">
+                    <a href="https://www.gamebase64.com/game.php?id=7165" rel="nofollow" target="_self">
                         <img alt="Speed Runner" src="./media/2013/game-compo/Speed_Runner.png"/>
                     </a>
                     <div className="caption">
@@ -382,7 +382,7 @@ export default function () {
 
             <div className="col-md-4">
                 <div className="thumbnail">
-                    <a href="http://www.gamebase64.com/game.php?id=1365" rel="nofollow" target="_self">
+                    <a href="https://www.gamebase64.com/game.php?id=1365" rel="nofollow" target="_self">
                         <img alt="Centric" src="./media/2013/game-compo/Centric.png"/>
                     </a>
                     <div className="caption">
@@ -399,7 +399,7 @@ export default function () {
 
             <div className="col-md-4">
                 <div className="thumbnail">
-                    <a href="http://www.youtube.com/watch?v=u9O-3KwSCwc" rel="nofollow" target="_self">
+                    <a href="https://www.youtube.com/watch?v=u9O-3KwSCwc" rel="nofollow" target="_self">
                         <img alt="Gunfight" src="./media/2013/game-compo/Gunfight.jpg"/>
                     </a>
                     <div className="caption">

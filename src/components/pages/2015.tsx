@@ -3,10 +3,10 @@ import React from "react";
 export default function () {
     return <div>
         <h1>Multimatograf 11</h1>
-        <p><a href="http://events.retroscene.org/mf11"><img alt="" src="./media/cover2015.jpg"/></a></p>
+        <p><a href="https://events.retroscene.org/mf11"><img alt="" src="./media/cover2015.jpg"/></a></p>
 
         <h3>
-            <a href="http://events.retroscene.org/mf11">
+            <a href="https://events.retroscene.org/mf11">
                 25-26 апреля 2015<br />
                 Вологда, Ленинградская, 4. Кафе «Актеры»
             </a>
@@ -105,7 +105,7 @@ ________Realtime ZX Graphics________________________________________________
  3. Почта Российского Хогвартса by tzerra^ERA_CG                      3.85`}</pre>
 
         <h3>
-            <a href="http://events.retroscene.org/mf11">Подробнее / details</a>
+            <a href="https://events.retroscene.org/mf11">Подробнее / details</a>
         </h3>
     </div>;
 }

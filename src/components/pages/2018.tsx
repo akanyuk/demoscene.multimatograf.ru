@@ -3,10 +3,10 @@ import React from "react";
 export default function () {
     return <div>
         <h1>Multimatograf 2018</h1>
-        <p><a href="http://events.retroscene.org/mf2018"><img alt="" src="./media/cover2018.png"/></a></p>
+        <p><a href="https://events.retroscene.org/mf2018"><img alt="" src="./media/cover2018.png"/></a></p>
 
         <h3>
-            <a href="http://events.retroscene.org/mf2018">
+            <a href="https://events.retroscene.org/mf2018">
                 29-30 апреля 2018 года<br />
                 Вологда, Ленинградская, 4. Кафе &laquo;Актеры&raquo;
             </a>
@@ -80,7 +80,7 @@ ________Realtime 8Bit Music Cover___________________
  3. realtime vision by lampovyï_ninja         7.89`}</pre>
 
         <h3>
-            <a href="http://events.retroscene.org/mf2018">Подробнее / details</a>
+            <a href="https://events.retroscene.org/mf2018">Подробнее / details</a>
         </h3>
     </div>;
 }

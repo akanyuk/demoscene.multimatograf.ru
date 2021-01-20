@@ -3,10 +3,10 @@ import React from "react";
 export default function () {
     return <div>
         <h1>Multimatograf 2016</h1>
-        <p><a href="http://events.retroscene.org/mf2016"><img alt="" src="./media/cover2016.jpg"/></a></p>
+        <p><a href="https://events.retroscene.org/mf2016"><img alt="" src="./media/cover2016.jpg"/></a></p>
 
         <h3>
-            <a href="http://events.retroscene.org/mf2016">
+            <a href="https://events.retroscene.org/mf2016">
                 30 апреля и 1 мая 2016 года<br />
                 Вологда, Ленинградская, 4. Кафе «Актеры»
             </a>
@@ -99,7 +99,7 @@ ________Fast Photo Processing_________________________________
  1. zx_mm2016 by Misha Pertsovsky                         3.71`}</pre>
 
         <h3>
-            <a href="http://events.retroscene.org/mf2016">Подробнее / details</a>
+            <a href="https://events.retroscene.org/mf2016">Подробнее / details</a>
         </h3>
     </div>;
 }

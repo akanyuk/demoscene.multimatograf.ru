@@ -24,7 +24,7 @@ export default function () {
             <li><a href="https://vk.com/album165018924_156467950">Фотографии (общий альбом)</a></li>
             <li><strong>Работы конкурса 53c</strong>
                 <ul>
-                    <li><a href="http://zxart.ee/rus/pati/2012/multimatograf-8/">zxart.ee</a></li>
+                    <li><a href="https://zxart.ee/rus/pati/2012/multimatograf-8/">zxart.ee</a></li>
                     <li><a href="https://demozoo.org/parties/3479/">demozoo.org</a></li>
                     <li><a href="https://www.youtube.com/watch?v=UCvGej8xuvI">Слайдшоу работ [ZX Spectrum + AY]</a> (<a
                         href="https://bbb.retroscene.org/prod.php?p=7596">pouet.net</a>)
@@ -44,12 +44,12 @@ export default function () {
             мест.</p>
 
         <p>Все работы конкурса 53c можно посмотреть на сайте <a
-            href="http://zxart.ee/rus/pati/2012/multimatograf-8/"><strong>zxart.ee</strong></a>.</p>
+            href="https://zxart.ee/rus/pati/2012/multimatograf-8/"><strong>zxart.ee</strong></a>.</p>
 
         <div className="row">
             <div className="col-md-4">
                 <div className="thumbnail">
-                    <a href="http://zxart.ee/rus/avtory/v/vova-golubkov/kon-na-belom-prince/" rel="nofollow"
+                    <a href="https://zxart.ee/rus/avtory/v/vova-golubkov/kon-na-belom-prince/" rel="nofollow"
                        target="_self">
                         <img alt="Конь на белом принце"
                              src="./media/2012/53c-1.png"/>
@@ -60,7 +60,7 @@ export default function () {
 
             <div className="col-md-4">
                 <div className="thumbnail">
-                    <a href="http://zxart.ee/rus/avtory/v/vadim-kuzminskij/mario-geroj-nashego-detstva/" rel="nofollow"
+                    <a href="https://zxart.ee/rus/avtory/v/vadim-kuzminskij/mario-geroj-nashego-detstva/" rel="nofollow"
                        target="_self">
                         <img alt="Марио - Герой нашего детства"
                              src="./media/2012/53c-2.png"/>
@@ -73,7 +73,7 @@ export default function () {
 
             <div className="col-md-4">
                 <div className="thumbnail">
-                    <a href="http://zxart.ee/rus/avtory/v/vera-pryganova/che/" rel="nofollow" target="_self"><img
+                    <a href="https://zxart.ee/rus/avtory/v/vera-pryganova/che/" rel="nofollow" target="_self"><img
                         alt="Че" src="./media/2012/53c-3.png"/>
                     </a>
                     <div className="caption">3. Че by Вера Прыганова</div>

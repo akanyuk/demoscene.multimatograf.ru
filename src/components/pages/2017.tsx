@@ -3,10 +3,10 @@ import React from "react";
 export default function () {
     return <div>
         <h1>Multimatograf 2017</h1>
-        <p><a href="http://events.retroscene.org/mf2018"><img alt="" src="./media/cover2017.jpg"/></a></p>
+        <p><a href="https://events.retroscene.org/mf2018"><img alt="" src="./media/cover2017.jpg"/></a></p>
 
         <h3>
-            <a href="http://events.retroscene.org/mf2018">
+            <a href="https://events.retroscene.org/mf2018">
                 29-30 апреля 2017 года<br />
                 Вологда, Ленинградская, 4. Кафе &laquo;Актеры&raquo;
             </a>
@@ -91,7 +91,7 @@ ________Realtime 8Bit Music Cover__________________________________
  3. who needs a fork without the spoon anyway? by scalesmann 6.45`}</pre>
 
         <h3>
-            <a href="http://events.retroscene.org/mf2017">Подробнее / details</a>
+            <a href="https://events.retroscene.org/mf2017">Подробнее / details</a>
         </h3>
     </div>;
 }

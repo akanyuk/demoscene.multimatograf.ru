@@ -3,10 +3,10 @@ import React from "react";
 export default function () {
     return <div>
         <h1>Multimatograf X</h1>
-        <p><a href="http://events.retroscene.org/dmf10"><img alt="" src="./media/cover2014.jpg"/></a></p>
+        <p><a href="https://events.retroscene.org/dmf10"><img alt="" src="./media/cover2014.jpg"/></a></p>
 
         <h3>
-            <a href="http://events.retroscene.org/dmf10">
+            <a href="https://events.retroscene.org/dmf10">
                 25-27 апреля 2014, Вологда,
                 <br />выставочный комплекс «Русский Дом»
             </a>
@@ -80,7 +80,7 @@ ________Game Quest___________________________________________
   дополнительными раундами.`}</pre>
 
         <h3>
-            <a href="http://events.retroscene.org/dmf10">Подробнее / details</a>
+            <a href="https://events.retroscene.org/dmf10">Подробнее / details</a>
         </h3>
     </div>;
 }
